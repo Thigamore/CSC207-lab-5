@@ -1,7 +1,7 @@
 package use_case.logout;
 
-import entity.User;
-import entity.UserFactory;
+// import entity.User;
+// import entity.UserFactory;
 
 /**
  * The Logout Interactor.
